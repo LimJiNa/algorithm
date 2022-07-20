@@ -5,14 +5,6 @@ import java.util.Stack;
 
 /**
  * 괄호
- * 
- * 6						3
- * (())())					((
- * (((()())()				))
- * (()())((()))				())(()
- * ((()()(()))(((())))()
- * ()()()()(()()())()
- * (()((())()(
  */
 public class P9012 {
 	public static void main(String[] args) {

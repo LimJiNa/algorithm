@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 /**
  * 소수
- * 
- * 60 100
- * 64 65
  */
 public class P2581 {
 	public static void main(String[] args) {

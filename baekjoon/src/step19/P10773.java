@@ -5,18 +5,6 @@ import java.util.Stack;
 
 /**
  * 제로
- * 
- * 4	10
- * 3	1
- * 0	3
- * 4	5
- * 0	4
- * 		0
- * 		0
- * 		7
- * 		0
- * 		0
- * 		6
  */
 public class P10773 {
 	public static void main(String[] args) {

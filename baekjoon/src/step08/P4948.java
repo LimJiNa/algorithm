@@ -5,15 +5,7 @@ import java.io.InputStreamReader;
 
 /**
  * 베르트랑 공준
- * 
- * 1
- * 10
- * 13
- * 100
- * 1000
- * 10000
- * 100000
- * 0
+ * 임의의 자연수 n에 대하여, n보다 크고, 2n보다 작거나 같은 소수는 적어도 하나 존재한다는 내용을 담고 있다.
  */
 public class P4948 {
 	public static void main(String[] args) throws Exception {

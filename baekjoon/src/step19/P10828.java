@@ -6,22 +6,6 @@ import java.util.Stack;
 
 /**
  * 스택
- * 
- * 14			7
- * push 1		pop
- * push 2		top
- * top			push 123
- * size			top
- * empty		pop
- * pop			top
- * pop			pop
- * pop
- * size
- * empty
- * pop
- * push 3
- * empty
- * top
  */
 public class P10828 {
 	public static void main(String[] args) throws Exception {

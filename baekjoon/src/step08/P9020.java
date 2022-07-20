@@ -7,11 +7,6 @@ import java.io.InputStreamReader;
  * 골드바흐의 추측 : 골드바흐 파티션 구하기
  * 2보다 큰 모든 짝수는 두 소수의 합으로 나타낼 수 있다는 것을 골드바흐의 수라고 한다.
  * 또 짝수를 두 소수의 합으로 나타내는 표현을 그 수의 골드바흐 파티션이라고 한다.
- * 
- * 3
- * 8
- * 10
- * 16
  */
 public class P9020 {
 	public static boolean[] prime = new boolean[10001];

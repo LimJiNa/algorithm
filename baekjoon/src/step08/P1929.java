@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * 소수 구하기
- * 
- * 3 16
  */
 public class P1929 {
 	public static void main(String[] args) {

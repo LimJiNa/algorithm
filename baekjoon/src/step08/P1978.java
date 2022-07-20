@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 /**
  * 소수 찾기
- * 
- * 4
- * 1 3 5 7
  */
 public class P1978 {
 	public static void main(String[] args) {
