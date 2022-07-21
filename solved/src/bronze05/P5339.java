@@ -1,5 +1,8 @@
 package bronze05;
 
+/**
+ * 콜센터
+ */
 public class P5339 {
 	public static void main(String[] args) {
 		StringBuilder sb = new StringBuilder();

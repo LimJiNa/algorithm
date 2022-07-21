@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * A+B - 3
+ */
 public class P10950 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

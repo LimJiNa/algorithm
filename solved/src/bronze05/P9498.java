@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * 시험 성적
+ */
 public class P9498 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

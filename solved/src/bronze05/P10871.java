@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * X보다 작은 수
+ */
 public class P10871 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

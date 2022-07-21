@@ -4,6 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+/**
+ * 킹, 퀸, 룩, 비숍, 나이트, 폰
+ */
 public class P3003 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
@@ -23,7 +26,7 @@ public class P3003 {
 
 		for (int i = 0; i < arr.length; i++) {
 			int tmp = Integer.parseInt(arr[i]);
-			
+
 			if (tmp < countMap.get(i)) {
 				sb.append(countMap.get(i) - tmp).append(" ");
 			} else if (tmp > countMap.get(i)) {

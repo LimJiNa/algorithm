@@ -3,6 +3,9 @@ package bronze05;
 import java.math.BigInteger;
 import java.util.Scanner;
 
+/**
+ * 사파리월드
+ */
 public class P2420 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

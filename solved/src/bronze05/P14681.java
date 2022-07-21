@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * 사분면 고르기
+ */
 public class P14681 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

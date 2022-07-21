@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * 개수 세기
+ */
 public class P10807 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

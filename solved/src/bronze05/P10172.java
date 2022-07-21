@@ -1,5 +1,8 @@
 package bronze05;
 
+/**
+ * 개
+ */
 public class P10172 {
 	public static void main(String[] args) {
 		StringBuilder sb = new StringBuilder();

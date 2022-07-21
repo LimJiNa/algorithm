@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * 사칙연산
+ */
 public class P10869 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

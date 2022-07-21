@@ -1,5 +1,8 @@
 package bronze05;
 
+/**
+ * 스타워즈 로고
+ */
 public class P9653 {
 	public static void main(String[] args) {
 		StringBuilder sb = new StringBuilder();

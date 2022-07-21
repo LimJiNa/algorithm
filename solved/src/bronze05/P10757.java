@@ -3,6 +3,9 @@ package bronze05;
 import java.math.BigInteger;
 import java.util.Scanner;
 
+/**
+ * 큰 수 A+B
+ */
 public class P10757 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

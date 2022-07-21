@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * 나는 행복합니다~
+ */
 public class P14652 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

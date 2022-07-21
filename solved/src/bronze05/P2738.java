@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * 행렬 덧셈
+ */
 public class P2738 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

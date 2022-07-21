@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * 구구단
+ */
 public class P2739 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
@@ -9,7 +12,7 @@ public class P2739 {
 		int n = scan.nextInt();
 
 		System.out.println(solution(n));
-		
+
 		scan.close();
 	}
 

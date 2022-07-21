@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * 피보나치 수 5
+ */
 public class P10870 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

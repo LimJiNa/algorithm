@@ -3,6 +3,9 @@ package bronze05;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+/**
+ * A+B - 4
+ */
 public class P10951 {
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

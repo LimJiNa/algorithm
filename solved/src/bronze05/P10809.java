@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * 알파벳 찾기
+ */
 public class P10809 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

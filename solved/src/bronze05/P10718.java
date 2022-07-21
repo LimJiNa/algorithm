@@ -1,5 +1,8 @@
 package bronze05;
 
+/**
+ * We love kriii
+ */
 public class P10718 {
 	public static void main(String[] args) {
 		StringBuilder sb = new StringBuilder();

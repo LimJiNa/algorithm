@@ -4,6 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+/**
+ * 학점계산
+ */
 public class P2754 {
 
 	public static void main(String[] args) {

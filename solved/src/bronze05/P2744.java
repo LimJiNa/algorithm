@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * 대소문자 바꾸기
+ */
 public class P2744 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

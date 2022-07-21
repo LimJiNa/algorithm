@@ -3,6 +3,9 @@ package bronze05;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * 과제 안 내신 분..?
+ */
 public class P5597 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

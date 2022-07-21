@@ -1,5 +1,8 @@
 package bronze05;
 
+/**
+ * 고양이
+ */
 public class P10171 {
 	public static void main(String[] args) {
 		StringBuilder sb = new StringBuilder();

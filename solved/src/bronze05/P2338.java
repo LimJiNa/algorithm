@@ -3,6 +3,9 @@ package bronze05;
 import java.math.BigInteger;
 import java.util.Scanner;
 
+/**
+ * 긴자리 계산
+ */
 public class P2338 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

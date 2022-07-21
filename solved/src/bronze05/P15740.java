@@ -3,6 +3,9 @@ package bronze05;
 import java.math.BigInteger;
 import java.util.Scanner;
 
+/**
+ * A+B - 9
+ */
 public class P15740 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

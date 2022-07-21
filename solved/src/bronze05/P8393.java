@@ -3,9 +3,9 @@ package bronze05;
 import java.util.Scanner;
 
 /**
- * 팩토리얼
+ * 합
  */
-public class P10872 {
+public class P8393 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 
@@ -17,10 +17,12 @@ public class P10872 {
 	}
 
 	public static int solution(int n) {
-		if (n <= 0) {
-			return 1;
-		} else {
-			return n * solution(n - 1);
+		int answer = 0;
+
+		for (int i = 0; i <= n; i++) {
+			answer += i;
 		}
+
+		return answer;
 	}
 }

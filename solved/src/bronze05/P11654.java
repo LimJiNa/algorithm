@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * 아스키 코드
+ */
 public class P11654 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

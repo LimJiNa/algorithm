@@ -1,9 +1,9 @@
 package bronze05;
 
 /**
- * 나부 함대 데이터
+ * NFC West vs North
  */
-public class P9654 {
+public class P10170 {
 	public static void main(String[] args) {
 		StringBuilder sb = new StringBuilder();
 		sb.append("NFC West       W   L  T").append("\n");

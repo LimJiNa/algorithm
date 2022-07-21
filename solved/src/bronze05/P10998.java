@@ -2,6 +2,9 @@ package bronze05;
 
 import java.util.Scanner;
 
+/**
+ * AxB
+ */
 public class P10998 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
