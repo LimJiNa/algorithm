@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * 대소문자 변환
- * 
- * StuDY
  */
 public class Problem02 {
 	public static void main(String[] args) {

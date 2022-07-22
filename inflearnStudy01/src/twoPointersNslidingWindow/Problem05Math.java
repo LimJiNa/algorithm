@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * 연속된 자연수의 합(수학)
- * 
- * 15
  */
 public class Problem05Math {
 	public static void main(String[] args) {

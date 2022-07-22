@@ -5,11 +5,6 @@ import java.util.Scanner;
 
 /**
  * 두 배열 합치기
- * 
- * 3
- * 1 3 5
- * 5
- * 2 3 6 7 9
  */
 public class Problem01 {
 	public static void main(String[] args) {

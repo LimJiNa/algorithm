@@ -5,9 +5,6 @@ import java.util.Scanner;
 
 /**
  * 큰 수 출력하기
- * 
- * 6
- * 7 3 9 5 6 12
  */
 public class Problem01 {
 	public static void main(String[] args) {

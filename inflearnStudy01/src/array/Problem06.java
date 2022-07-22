@@ -5,9 +5,6 @@ import java.util.Scanner;
 
 /**
  * 뒤집은 소수
- * 
- * 9
- * 32 55 62 20 250 370 200 30 100
  */
 public class Problem06 {
 	public static void main(String[] args) throws Exception {

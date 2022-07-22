@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * 피보나치수열 : 앞의 2개의 수를 합하여 다음 숫자가 되는 수열
- * 
- * 10
  */
 public class Problem04 {
 	public static void main(String[] args) {

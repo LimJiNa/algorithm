@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 /**
  * 최대 길이 연속부분수열
- * 
- * 14 2
- * 1 1 0 0 1 1 0 1 1 0 1 1 0 1
  */
 public class Problem06 {
 	public static void main(String[] args) {

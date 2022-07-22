@@ -6,8 +6,6 @@ import java.util.Scanner;
 
 /**
  * 문장 속 단어
- * 
- * it is time to study
  */
 public class Problem03 {
 	public static void main(String[] args) {

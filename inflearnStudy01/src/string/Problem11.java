@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 /**
  * 문자열 압축
- * 
- * KKHSSSSSSSE
- * KSTTTSEEKFKKKDJJGG
  */
 public class Problem11 {
 	public static void main(String[] args) {

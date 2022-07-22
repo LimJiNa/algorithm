@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * 특정 문자 뒤집기
- * 
- * a#b!GE*T@S
  */
 public class Problem05 {
 	public static void main(String[] args) {

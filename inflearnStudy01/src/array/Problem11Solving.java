@@ -4,13 +4,6 @@ import java.util.Scanner;
 
 /**
  * 임시반장 정하기
- * 
- * 5
- * 2 3 1 7 3
- * 4 1 9 6 8
- * 5 5 2 4 4
- * 6 5 2 6 7
- * 8 4 2 2 2
  */
 public class Problem11Solving {
 	public static void main(String[] args) {

@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * 숫자만 추출
- * 
- * g0en2T0s8eSoft
  */
 public class Problem09 {
 	public static void main(String[] args) {

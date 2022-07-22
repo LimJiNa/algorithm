@@ -4,11 +4,6 @@ import java.util.Scanner;
 
 /**
  * 멘토링
- * 
- * 4 3
- * 3 4 1 2
- * 4 3 2 1
- * 3 1 4 2
  */
 public class Problem12 {
 	public static void main(String[] args) {

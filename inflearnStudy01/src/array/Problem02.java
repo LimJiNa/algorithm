@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 /**
  * 보이는 학생
- * 
- * 8
- * 130 135 148 140 145 150 150 153
  */
 public class Problem02 {
 	public static void main(String[] args) {

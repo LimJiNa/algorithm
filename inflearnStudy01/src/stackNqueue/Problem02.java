@@ -5,8 +5,6 @@ import java.util.Stack;
 
 /**
  * 괄호문자 제거
- * 
- * (A(BC)D)EF(G(H)(IJ)K)LM(N)
  */
 public class Problem02 {
 	public static void main(String[] args) {

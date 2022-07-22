@@ -5,8 +5,6 @@ import java.util.Stack;
 
 /**
  * 올바른 괄호
- * 
- * (()(()))(()
  */
 public class Problem01 {
 	public static void main(String[] args) {

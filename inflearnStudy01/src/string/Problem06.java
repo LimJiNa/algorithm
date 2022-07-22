@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * 중복문자제거
- * 
- * ksekkset
  */
 public class Problem06 {
 	public static void main(String[] args) {

@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * 가장 짧은 문자거리
- * 
- * teachermode e
  */
 public class Problem10 {
 	public static void main(String[] args) {

@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 /**
  * 연속 부분수열
- * 
- * 8 6
- * 1 2 1 3 1 1 1 2
  */
 public class Problem04 {
 	public static void main(String[] args) {

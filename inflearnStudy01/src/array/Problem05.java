@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * 소수(에라토스테네스 체)
- * 
- * 20
  */
 public class Problem05 {
 	public static void main(String[] args) {

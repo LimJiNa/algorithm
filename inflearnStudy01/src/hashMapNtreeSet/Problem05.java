@@ -7,9 +7,6 @@ import java.util.TreeSet;
 
 /**
  * K번째 큰 수
- * 
- * 10 3
- * 13 15 34 23 45 65 33 11 26 42
  */
 public class Problem05 {
 	public static void main(String[] args) {

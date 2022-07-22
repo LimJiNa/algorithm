@@ -4,13 +4,6 @@ import java.util.Scanner;
 
 /**
  * 격자판 최대
- * 
- * 5
- * 10 13 10 12 15
- * 12 39 30 23 11
- * 11 25 50 53 15
- * 19 27 29 37 27
- * 19 13 30 13 19
  */
 public class Problem09 {
 	public static void main(String[] args) {

@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 /**
  * 최대 매출
- * 
- * 10 3
- * 12 15 11 20 25 10 20 19 13 15
  */
 public class Problem03 {
 	public static void main(String[] args) {

@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * 회문문자열 : 앞에서 읽을 때나 뒤에서 읽을 때나 같은 문자열
- * 
- * gooG
  */
 public class Problem07 {
 	public static void main(String[] args) {

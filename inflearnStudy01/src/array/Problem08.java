@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 /**
  * 등수 구하기
- * 
- * 5
- * 87 89 92 100 76
  */
 public class Problem08 {
 	public static void main(String[] args) {

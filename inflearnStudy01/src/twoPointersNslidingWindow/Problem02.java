@@ -6,11 +6,6 @@ import java.util.Scanner;
 
 /**
  * 공통 원소 구하기
- * 
- * 5
- * 1 3 9 5 2
- * 5
- * 3 2 5 7 8
  */
 public class Problem02 {
 	public static void main(String[] args) {

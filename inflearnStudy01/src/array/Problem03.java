@@ -4,10 +4,6 @@ import java.util.Scanner;
 
 /**
  * 가위바위보
- * 
- * 5
- * 2 3 3 1 3
- * 1 1 2 2 3
  */
 public class Problem03 {
 	public static void main(String[] args) {

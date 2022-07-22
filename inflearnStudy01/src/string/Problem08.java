@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * 유효한 팰린드롬 : 앞에서 읽을 때나 뒤에서 읽을 때나 같은 문자열
- * 
- * found7, time: study; Yduts; emit, 7Dnuof
  */
 public class Problem08 {
 	public static void main(String[] args) {

@@ -5,12 +5,6 @@ import java.util.Scanner;
 
 /**
  * 아나그램(해쉬) : 두 문자열이 알파벳의 나열 순서는 다르지만 그 구성이 일치하면 두 단어는 아나그램이라고 한다.
- * 
- * AbaAeCe
- * baeeACA
- * 
- * abaCC
- * Caaab
  */
 public class Problem02 {
 	public static void main(String[] args) {

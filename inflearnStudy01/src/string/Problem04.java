@@ -5,11 +5,6 @@ import java.util.Scanner;
 
 /**
  * 단어 뒤집기
- * 
- * 3
- * good
- * Time
- * Big
  */
 public class Problem04 {
 	public static void main(String[] args) {

@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 /**
  * 문자 찾기
- * 
- * Computercooler
- * c
  */
 public class Problem01 {
 	public static void main(String[] args) {

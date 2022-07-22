@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 /**
  * 점수 계산
- * 
- * 10
- * 1 0 1 1 1 0 0 1 1 0
  */
 public class Problem07 {
 	public static void main(String[] args) {

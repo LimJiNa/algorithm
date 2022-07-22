@@ -5,9 +5,6 @@ import java.util.Scanner;
 
 /**
  * 학급 회장(해쉬)
- * 
- * 15
- * BACBACCACCBDEDE
  */
 public class Problem01 {
 	public static void main(String[] args) {

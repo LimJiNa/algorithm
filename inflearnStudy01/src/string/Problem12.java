@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 /**
  * 암호
- * 
- * 4
- * #****###**#####**#####**##**
  */
 public class Problem12 {
 	public static void main(String[] args) {
