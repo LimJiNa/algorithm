@@ -31,18 +31,18 @@ public class Problem04 {
 			int left = stack.pop();
 
 			switch (x) {
-				case '+':
-					answer = (left + right);
-					break;
-				case '-':
-					answer = (left - right);
-					break;
-				case '*':
-					answer = (left * right);
-					break;
-				case '/':
-					answer = (left / right);
-					break;
+			case '+':
+				answer = (left + right);
+				break;
+			case '-':
+				answer = (left - right);
+				break;
+			case '*':
+				answer = (left * right);
+				break;
+			case '/':
+				answer = (left / right);
+				break;
 			}
 
 			stack.push(answer);
@@ -53,5 +53,32 @@ public class Problem04 {
 
 	public static int parseInt(char x) {
 		return Integer.parseInt(Character.toString(x));
+	}
+
+	public static int solving(String str) {
+		int answer = 0;
+		Stack<Integer> stack = new Stack<>();
+
+		for (int x : str.toCharArray()) {
+			if (Character.isDigit(x))
+				stack.push(x - 48);
+			else {
+				int rt = stack.pop();
+				int lt = stack.pop();
+
+				if (x == '+')
+					stack.push(lt + rt);
+				else if (x == '-')
+					stack.push(lt - rt);
+				else if (x == '*')
+					stack.push(lt * rt);
+				else if (x == '/')
+					stack.push(lt / rt);
+			}
+		}
+
+		answer = stack.get(0);
+
+		return answer;
 	}
 }
